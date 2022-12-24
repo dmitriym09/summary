@@ -1,1 +1,4 @@
 - https://habr.com/ru/company/ruvds/blog/499014/
+- https://habr.com/ru/post/503602/
+- https://habr.com/ru/company/spice/blog/489302/
+- 

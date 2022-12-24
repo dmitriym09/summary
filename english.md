@@ -1,2 +1,4 @@
 - https://habr.com/ru/post/479818/
-- https://habr.com/ru/company/englishdom/blog/490736/
+- https://habr.com/ru/company/englishdom/blog/490736
+- https://habr.com/ru/company/englishdom/blog/499806/
+- https://habr.com/ru/company/englishdom/blog/495638/
